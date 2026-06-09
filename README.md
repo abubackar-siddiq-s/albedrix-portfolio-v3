@@ -134,3 +134,10 @@ This project is intended for portfolio and showcase purposes.
 GitHub: https://github.com/albedrixsystems
 
 Building the future at the edge.
+
+---
+
+## Designed & Developed
+
+* Nikesh Babu S 
+* Abubackar Siddiq S 
