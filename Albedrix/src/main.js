@@ -127,7 +127,7 @@ document.addEventListener('DOMContentLoaded', () => {
   //   const x = (window.innerWidth / 2 - e.clientX) / 40;
   //   const y = (window.innerHeight / 2 - e.clientY) / 40;
   //   heroSection.style.transform = `translate(${x}px, ${y}px)`;
-  // });
+  });
 
   /* MOBILE MENU TOGGLE */
   const mobileBtn = document.querySelector('.mobile-menu-btn');
